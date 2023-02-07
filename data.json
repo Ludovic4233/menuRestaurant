@@ -1,15 +1,1 @@
-{
-    "data": [
-        {"id": 1, "name": "croquettes de poisson chat", "price": 12},
-        {"id": 2, "name": "filets de pimp", "price": 8},
-        {"id": 3, "name": "soufflé braisé", "price": 3},
-        {"id": 4, "name": "salade décomposée", "price": 17},
-        {"id": 5, "name": "agneau déconfiné", "price": 23},
-        {"id": 6, "name": "entrecote dégraissée", "price": 27},
-        {"id": 7, "name": "pelardon désseché", "price": 5},
-        {"id": 8, "name": "copeaux de safran vanillés", "price": 9},
-        {"id": 9, "name": "café mouillette", "price": 1},
-        {"id": 10, "name": "coca cola aux glaçons", "price": 3},
-        {"id": 11, "name": "smoothie champignens/radis", "price": 8}
-    ]
-}
+{"data":[{"id":1,"name":"croquettes de poisson chat","price":12},{"id":2,"name":"filets de pimp","price":8},{"id":3,"name":"soufflé braisé","price":3},{"id":4,"name":"salade décomposée","price":17},{"id":5,"name":"agneau déconfiné","price":23},{"id":6,"name":"entrecote dégraissée","price":27},{"id":7,"name":"pelardon désseché","price":5},{"id":8,"name":"copeaux de safran vanillés","price":9},{"id":9,"name":"café mouillette","price":1},{"id":10,"name":"coca cola aux glaçons","price":3},{"id":11,"name":"smoothie champignens/radis","price":8},{"id":12,"name":"eau","price":1}]}
